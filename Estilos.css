@@ -258,7 +258,7 @@ section {
 
 section#hero {
   background: linear-gradient(rgba(26, 26, 64, 0.9), rgba(26, 26, 64, 0.9)),
-    url("/Assets/Images/grind-grinding.gif");
+    url("grind-grinding.gif");
     
   padding-bottom: 4px;
   background-size: cover;
